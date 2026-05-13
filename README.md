@@ -24,6 +24,19 @@ O objetivo deste exercício foi criar uma **Classe Progenitora** (`Pessoa`) e de
 * `Pessoa.java`: Superclasse com atributos e métodos comuns.
 * `Aluno.java`, `Professor.java`, `Funcionario.java`: Subclasses especializadas.
 * `Principal.java`: Classe de teste para instanciar os objetos e demonstrar o acesso aos métodos herdados.
+* 
+---
+
+<details>
+  <summary>📸 Clique aqui para ver os prints do código</summary>
+  <img src="img/herança1.png">
+  <img src="img/herança2.png">
+  <img src="img/herança3.png">
+  <img src="img/herança4.png">
+  <img src="img/herança5.png">
+  
+</details>
+
 
 ---
 
