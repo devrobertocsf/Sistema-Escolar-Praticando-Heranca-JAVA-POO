@@ -33,5 +33,4 @@ O objetivo deste exercício foi criar uma **Classe Progenitora** (`Pessoa`) e de
 
 
 
-**Dica para o seu repositório:**
-Como você está avançando em Herança, seria legal colocar um pequeno diagrama de classes (UML) no seu README. Isso ajuda muito a visualizar quem herda de quem! Já está pronto para o próximo desafio de herança ou quer revisar algo desse código?
+
